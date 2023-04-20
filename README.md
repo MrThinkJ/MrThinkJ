@@ -1,4 +1,4 @@
-## Just a normal programmer and nothing strange
+## Normal and nothing strange
 
 <div>
  <a href="https://github.com/MrThinkJ"/>
