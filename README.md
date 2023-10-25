@@ -2,7 +2,7 @@
 
 <div>
  <a href="https://github.com/MrThinkJ"/>
- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Developer;I+am+a+People" alt="Typing SVG" /></a></center>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Developer;I+am+a+People" alt="Typing SVG" /></a>
  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=MrThinkJ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Mr.ThinkJ's Github stats"/>
  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MrThinkJ&theme=dracula&layout=compact"/>       
 </div>
