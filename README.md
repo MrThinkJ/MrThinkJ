@@ -3,9 +3,10 @@
 <div>
  <a href="https://github.com/MrThinkJ"/>
  <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Developer;I+am+a+People" alt="Typing SVG" /></a></center>
- <img height = "180em" src="https://github-readme-stats-git-mrthinkj.vercel.app/api?username=mrthinkj&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dracula&layout=compact" alt="Mr.ThinkJ's Github stats"/>
+ <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=mrthinkj&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dracula&layout=compact" alt="Mr.ThinkJ's Github stats"/>
  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MrThinkJ&theme=dracula&layout=compact"/>       
 </div>
+
 
 
 <div style="display: inline_block"><br>
