@@ -2,9 +2,10 @@
 
 <div>
  <a href="https://github.com/MrThinkJ"/>
- <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=MrThinkJ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
+ <img height = "180em" src="https://github-readme-stats-git-mrthinkj.vercel.app/api?username=mrthinkj&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dracula&layout=compact" alt="Mr.ThinkJ's Github stats"/>
  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MrThinkJ&theme=dracula&layout=compact"/>       
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ThinkJ-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
