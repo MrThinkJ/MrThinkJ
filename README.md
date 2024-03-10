@@ -1,7 +1,7 @@
 ## Normal and nothing strange
 
 <div>
- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Living+with+code;Loving+with+right+person" alt="Typing SVG" /></a></center>
+ <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Live+with+code;Love+the+right+person" alt="Typing SVG" /></a></center>
 </div>
 
 <div>
